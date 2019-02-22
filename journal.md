@@ -2,7 +2,7 @@
 Gerard Capes
 
 # Title
-Biomass burning aerosol over West Africa
+Aircraft measurements of biomass burning aerosol over West Africa
 
 #Introduction
 This is the section where you reference other fngrgnginergngnegnengneg
